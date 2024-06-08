@@ -1,0 +1,1 @@
+Fulfilling project for Odin Foundational Course
